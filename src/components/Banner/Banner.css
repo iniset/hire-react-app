@@ -1,0 +1,23 @@
+.banner-area {
+  background-image: url(./images/page-banner-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.page-banner-content {
+  text-align: center;
+}
+
+.page-banner-content h2 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 38px;
+}
+.page-banner-content h3 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 30px;
+}

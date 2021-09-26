@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "61509fceb19f4d07188006f0",
+    "price": 34.91,
+    "picture": "https://randomuser.me/api/portraits/women/93.jpg",
+    "age": 35,
+    "name": "Herminia Burt",
+    "gender": "female",
+    "email": "herminiaburt@menbrain.com",
+    "phone": "+1 (911) 467-3174"
+  },
+  {
+    "_id": "61509fce88bdc6add22c5524",
+    "price": 33.12,
+    "picture": "https://randomuser.me/api/portraits/men/93.jpg",
+    "age": 33,
+    "name": "Noble Yang",
+    "gender": "male",
+    "email": "nobleyang@menbrain.com",
+    "phone": "+1 (929) 562-2109"
+  },
+  {
+    "_id": "61509fce2f41817b6fe672ce",
+    "price": 18.06,
+    "picture": "https://randomuser.me/api/portraits/men/94.jpg",
+    "age": 23,
+    "name": "Marshall Howell",
+    "gender": "male",
+    "email": "marshallhowell@menbrain.com",
+    "phone": "+1 (989) 404-3164"
+  },
+  {
+    "_id": "61509fce03741318034f1209",
+    "price": 35.78,
+    "picture": "https://randomuser.me/api/portraits/men/95.jpg",
+    "age": 20,
+    "name": "Whitney Crane",
+    "gender": "male",
+    "email": "whitneycrane@menbrain.com",
+    "phone": "+1 (986) 410-2137"
+  },
+  {
+    "_id": "61509fced0281d95c0c11846",
+    "price": 36.3,
+    "picture": "https://randomuser.me/api/portraits/men/96.jpg",
+    "age": 33,
+    "name": "Prince Lopez",
+    "gender": "male",
+    "email": "princelopez@menbrain.com",
+    "phone": "+1 (853) 429-2722"
+  },
+  {
+    "_id": "61509fcebf4a18cf317f7478",
+    "price": 32.13,
+    "picture": "https://randomuser.me/api/portraits/men/97.jpg",
+    "age": 23,
+    "name": "Johnson Mckinney",
+    "gender": "male",
+    "email": "johnsonmckinney@menbrain.com",
+    "phone": "+1 (868) 417-3420"
+  },
+  {
+    "_id": "61509fcee0f317e879b6e0c7",
+    "price": 34.72,
+    "picture": "https://randomuser.me/api/portraits/men/98.jpg",
+    "age": 28,
+    "name": "Blankenship Hutchinson",
+    "gender": "male",
+    "email": "blankenshiphutchinson@menbrain.com",
+    "phone": "+1 (962) 527-2862"
+  },
+  {
+    "_id": "61509fce671f560c5748b74a",
+    "price": 34.28,
+    "picture": "https://randomuser.me/api/portraits/men/99.jpg",
+    "age": 40,
+    "name": "Hardin Guzman",
+    "gender": "male",
+    "email": "hardinguzman@menbrain.com",
+    "phone": "+1 (912) 532-3160"
+  },
+  {
+    "_id": "61509fceed88a9704f55e646",
+    "price": 33.27,
+    "picture": "https://randomuser.me/api/portraits/men/18.jpg",
+    "age": 37,
+    "name": "Estrada Holden",
+    "gender": "male",
+    "email": "estradaholden@menbrain.com",
+    "phone": "+1 (920) 489-2743"
+  },
+  {
+    "_id": "61509fceab8302021870d1c4",
+    "price": 39.11,
+    "picture": "https://randomuser.me/api/portraits/women/19.jpg",
+    "age": 20,
+    "name": "Randi Marshall",
+    "gender": "female",
+    "email": "randimarshall@menbrain.com",
+    "phone": "+1 (989) 579-2482"
+  },
+  {
+    "_id": "61509fceeee7342d9e43e03e",
+    "price": 34.98,
+    "picture": "https://randomuser.me/api/portraits/men/16.jpg",
+    "age": 21,
+    "name": "Floyd Sheppard",
+    "gender": "male",
+    "email": "floydsheppard@menbrain.com",
+    "phone": "+1 (901) 401-2182"
+  },
+  {
+    "_id": "61509fce590dda65d169a3bd",
+    "price": 34.6,
+    "picture": "https://randomuser.me/api/portraits/women/15.jpg",
+    "age": 39,
+    "name": "Genevieve Oneil",
+    "gender": "female",
+    "email": "genevieveoneil@menbrain.com",
+    "phone": "+1 (973) 476-3690"
+  },
+  {
+    "_id": "61509fce5f5cb089bebdc1eb",
+    "price": 19.93,
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "age": 37,
+    "name": "Lucy Guy",
+    "gender": "female",
+    "email": "lucyguy@menbrain.com",
+    "phone": "+1 (914) 594-2535"
+  },
+  {
+    "_id": "61509fce8807bfdb563cdc6a",
+    "price": 28.56,
+    "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+    "age": 26,
+    "name": "Faith Ochoa",
+    "gender": "female",
+    "email": "faithochoa@menbrain.com",
+    "phone": "+1 (831) 445-2208"
+  },
+  {
+    "_id": "61509fce47042fe926a82739",
+    "price": 19.31,
+    "picture": "https://randomuser.me/api/portraits/women/11.jpg",
+    "age": 23,
+    "name": "Susan Dickson",
+    "gender": "female",
+    "email": "susandickson@menbrain.com",
+    "phone": "+1 (904) 430-3121"
+  }
+]

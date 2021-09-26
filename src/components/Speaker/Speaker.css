@@ -1,0 +1,44 @@
+.single-speaker {
+  background-color: #ffff;
+  box-shadow: 0 0 1.25rem rgb(108 118 134 / 10%);
+  padding: 20px;
+  border-radius: 5px;
+}
+.single-speaker img {
+  border-radius: 50%;
+}
+.single-speaker p {
+  font-size: 13px;
+}
+
+i.fab {
+  margin-right: 9px;
+  border: 1px solid #5c6a75;
+  padding: 7px 7px;
+  font-size: 13px;
+  border-radius: 18px;
+  color: #5c6a75;
+  transition: 0.6s;
+  cursor: pointer;
+}
+i.fab:hover {
+  color: #fff;
+  background-color: #f1556c;
+  border: 1px solid #fff;
+}
+
+i.fab.fa-facebook-f {
+  padding: 7px 10px;
+  font-size: 14px;
+}
+
+button.btn.btn-sm.btn-danger {
+  font-size: 12px;
+  background-color: #f1556c;
+  border-color: #f1556c;
+}
+
+hr {
+  color: #5c6a75;
+  margin-bottom: 10px;
+}
